@@ -17,3 +17,4 @@
 # Other stuff to ignore
 /doc
 .DS_Store
+.redcar
